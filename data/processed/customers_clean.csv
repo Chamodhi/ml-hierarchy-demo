@@ -1,0 +1,3 @@
+customer_id,age,monthly_spend,churn,spending_band
+C001,25.0,4500.0,0,Medium
+C002,31.0,7200.0,1,High
