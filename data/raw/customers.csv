@@ -1,3 +1,8 @@
-﻿customer_id,customer_age,monthly_spend,churn
-C010,29,5500,0
-C011,46,8300,1
+﻿customer_id,age,monthly_spend,churn
+C001,25,4500,0
+C002,31,7200,1
+C003,,3900,0
+C003,,3900,0
+C004,150,5100,1
+C005,42,missing,0
+C006,37,-500,1
